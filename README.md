@@ -1,0 +1,2 @@
+# States and Capitals
+This project was originally made as a way for me to study my states and capitals for a history quiz. However, I spent lots of time on the design aspect of the website, and ended up only finishing the night of the test. The website has a variety of gamemodes (7 in total), all of which can be used for studying different aspects of US states and capitals. The project was useful in learning image mapping, asynchronized image loading, as well as timing and lots of css and design.
